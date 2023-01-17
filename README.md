@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boitum3l0" alt="boitum3l0" /></a> </p>
 
-- 🔭 I’m currently working on **C: ALX-Low-Level-Programming**
-
-- 🌱 I’m currently learning **C programming language**
-
-- 👯 I’m looking to collaborate on **ODIN Project, C projects, JavaScritpt projects**
+- 🌱 I’m currently learning **Full Stack Web Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/boitum3l0](https://github.com/boitum3l0)
 
-- 📫 How to reach me **msmonkwe@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/msboitumelo**
 
-- ⚡ Fun fact **I know how to play the piano**
+- ⚡ Fun fact **I'm learning how to play the piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
