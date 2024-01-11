@@ -1,17 +1,17 @@
 <h1 align="center">Hey there 👋 I'm Boitumelo</h1>
-<h3 align="center">An aspiring Developer from South Africa</h3>
+<h3 align="center">An aspiring Cybersecurity Analyst from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boitum3l0&label=Profile%20views&color=0e75b6&style=flat" alt="boitum3l0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boitum3l0" alt="boitum3l0" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Cybersecurity** through **Cisco Network Academy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/boitum3l0](https://github.com/boitum3l0)
 
 - 📫 How to reach me **https://www.linkedin.com/in/msboitumelo**
 
-- ⚡ Fun fact **I'm learning how to play the piano**
+- ⚡ Fun fact **I'm learning how to play the Saxophone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
