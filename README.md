@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Boitumelo</h1>
-<h3 align="center">An aspiring Cybersecurity Analyst from South Africa</h3>
+<h3 align="center">I'm on a journey to start my tech career!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boitum3l0&label=Profile%20views&color=0e75b6&style=flat" alt="boitum3l0" /> </p>
 
