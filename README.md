@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boitum3l0" alt="boitum3l0" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity** through **Cisco Network Academy**
+- 🌱 I’m currently learning how to code through the **FNB IT Academy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/boitum3l0](https://github.com/boitum3l0)
 
-- 📫 How to reach me **https://www.linkedin.com/in/msboitumelo**
-
-- ⚡ Fun fact **I'm learning how to play the Saxophone**
+- ⚡ Fun fact **I actually have a background in Accounting!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
